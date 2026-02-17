@@ -66,3 +66,45 @@ body {
     border: 1px solid #461af5;
     background-color: #461af5;
 }
+
+.steps__number {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.steps__content {
+    display: flex;
+    flex-direction: column;
+}
+
+.steps__title {
+    color: white;
+    opacity: 0.5;
+    font-size: 1.4rem;
+    line-height: 1.2;
+}
+
+.steps__description {
+    font-weight: 600;
+}
+
+.main__right {
+    padding: 2rem 10rem;
+}
+
+.main__header {
+    width: 100%;
+    margin-bottom: 4rem;
+}
+
+.header__title {
+    color: #333;
+    font-size: 3.6rem;
+    margin-bottom: 0.7rem;
+}
+
+.header__subtitle {
+    color: black;
+    opacity: 0.5;
+    font-weight: 500;
+}
